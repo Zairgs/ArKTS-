@@ -1,0 +1,28 @@
+{
+  "src": [
+    "pages/LoginPage",
+    "pages/LoadingPage",
+    "pages/RegisterPage",
+    "pages/ForgetPasswordPage",
+    "pages/home/HomePage",
+    "pages/SettingPage",
+    "pages/NormalPage",
+    "pages/RankPage",
+    "pages/CommentListPage",
+    "pages/FontSizePage",
+    "pages/CouponPage",
+    "pages/DigitalTicketAlbum",
+    "pages/RealNameInfoPage",
+    "pages/TicketReservation",
+    "pages/MoreGoodsPage",
+    "pages/VIPPage",
+    "pages/Goods",
+    "pages/Movie",
+    "pages/Online",
+    "pages/Show",
+    "pages/MyCards/CinemaCard",
+    "pages/MyCards/Coin",
+    "pages/MyCards/Coupon",
+    "pages/MyCards/MemberCard"
+  ]
+}
